@@ -1,18 +1,18 @@
 # Neural-Transfer-Style
 
-Neural Style Transfer (NST) is a technique that blends the content of one image with the style of another using deep neural networks. This project demonstrates how to use a pre-trained VGG19 network to perform style transfer in Python using PyTorch.
+Neural Style Transfer (NST) es una técnica que combina el contenido de una imagen con el estilo de otra utilizando redes neuronales profundas. Este proyecto demuestra cómo utilizar una red VGG19 previamente entrenada para realizar transferencias de estilo en Python usando PyTorch.
 
-Features
+Características
 
-Transfer the style of one image to another while preserving the content.
-Customize the style transfer process with various parameters.
-Save and visualize the resulting images.
+Transfiere el estilo de una imagen a otra conservando el contenido.
+Personaliza el proceso de transferencia de estilo con varios parámetros.
+Guarde y visualice las imágenes resultantes.
 
-Requirements
+Requisitos
 
-Python 3.7 or higher
+Python 3.7 o superior
 PyTorch
-torchvision
-Pillow
-numpy
+visión de antorcha
+Almohada
+engordado
 matplotlib
