@@ -10,9 +10,9 @@ Guarde y visualice las imágenes resultantes.
 
 Requisitos
 
-Python 3.7 o superior
-PyTorch
-visión de antorcha
-Almohada
-engordado
-matplotlib
+- Python 3.7 o superior
+- PyTorch
+- torchvision
+- Pillow
+- numpy
+- matplotlib
